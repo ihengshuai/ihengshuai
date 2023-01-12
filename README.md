@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/ihengshuai">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=ihengshuai&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="ihengshuai's github stats"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=ihengshuai&show_icons=true&include_all_commits=true&theme=onedark&hide=prs" alt="ihengshuai's github stats"/>
     </a>
     <a href="https://github.com/ihengshuai">
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihengshuai&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Rongding's github stats"/>
