@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- ======================================================================== -->
 
 - 😄Read more about my [Blog](https://blog.usword.cn)
-- 👯Follow me on ,[掘金](https://juejin.cn/user/2999123453679656) or [知乎](https://www.zhihu.com/people/usword) 
+- 👯Follow me on [知乎](https://www.zhihu.com/people/usword) 
 
 ##### GitHub Stats
 
