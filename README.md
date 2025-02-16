@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 <!-- ======================================================================== -->
 
 - 😄Read more about my [Blog](https://blog.usword.cn)
-- 👯Follow me on [Segmentfault](https://segmentfault.com/blog/ihengshuai) 
+- 👯Follow me on [Segmentfault](https://segmentfault.com/blog/ihengshuai)
+- 攻粽号：码上来財（mslaicai）
+
+<img src="https://ihengshuai-demo1.oss-cn-beijing.aliyuncs.com/httpweixin.qq.comr1DjRyQbEVVsqrUKq923G%281%29.png" width="120">
 
 ##### GitHub Stats
 
